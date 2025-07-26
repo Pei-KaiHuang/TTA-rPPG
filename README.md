@@ -2,9 +2,11 @@
 ### Fully Test-Time rPPG Estimation via Synthetic Signal-Guided Feature Learning
 
 ## Illustration of different cross-domain scenarios.
-
+<!-- ![plot](figures/idea.png) -->
+<img src="figures/idea.png" width="1000"/>
 ## Architecture of TTA-rPPG
-
+<!-- ![plot](figures/framework.png) -->
+<img src="figures/framework.png" width="1000"/>
 ## Prerequisite
 Please check `requirement.txt` for the required Python libraries.
 
