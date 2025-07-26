@@ -3,10 +3,10 @@
 
 ## Illustration of different cross-domain scenarios.
 <!-- ![plot](figures/idea.png) -->
-<img src="figures/idea.png" width="1000"/>
+<img src="figures/idea.png" width="500"/>
 ## Architecture of TTA-rPPG
 <!-- ![plot](figures/framework.png) -->
-<img src="figures/framework.png" width="1000"/>
+<img src="figures/framework.png" width="500"/>
 ## Prerequisite
 Please check `requirement.txt` for the required Python libraries.
 
