@@ -13,5 +13,5 @@
 Please check `requirement.txt` for the required Python libraries.
 
 ## Training & Testing
-Please make sure your dataset is processed and modify the code in `dataloader.py`, `train_label.py`, `train_cGAN.py` and `test_tent_cGAN.py`.
+Please make sure your dataset is processed and modify the code in `train_label.py`, `train_cGAN.py` and `test_tent_cGAN.py`.
 Once the code is updated, you can run `train_tent.sh` directly to start training and testing."
